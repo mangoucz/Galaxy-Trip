@@ -10,6 +10,7 @@ TagManager:
   - PickUp
   - ???
   - Box2
+  - Border
   layers:
   - Default
   - TransparentFX
